@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="135.46666mm"
+   height="33.866665mm"
+   viewBox="0 0 135.46666 33.866665"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="Donate.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.0097643"
+     inkscape:cx="199.02831"
+     inkscape:cy="76.12833"
+     inkscape:window-width="2560"
+     inkscape:window-height="1336"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient6"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#151515;stop-opacity:1;"
+         offset="0.42550123"
+         id="stop6" />
+      <stop
+         style="stop-color:#444444;stop-opacity:1;"
+         offset="0.82046396"
+         id="stop7" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:0;"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4"
+       id="linearGradient5"
+       x1="67.73333"
+       y1="-29.089077"
+       x2="67.73333"
+       y2="62.955742"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.90445037,0,0,0.90445037,6.4718949,1.6179737)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6"
+       id="linearGradient7"
+       x1="67.73333"
+       y1="84.666664"
+       x2="67.73333"
+       y2="-50.799995"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient7);stroke-width:0.30118;fill-opacity:1"
+       id="rect1"
+       width="135.46666"
+       height="33.866665"
+       x="0"
+       y="0"
+       rx="4.2127662"
+       ry="4.2127662" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:27.5762px;font-family:GeForce;-inkscape-font-specification:'GeForce Bold';writing-mode:lr-tb;direction:ltr;fill:#c5c5c5;fill-opacity:1;stroke:#000000;stroke-width:0.440467;stroke-dasharray:none;stroke-opacity:1"
+       x="24.537737"
+       y="26.271282"
+       id="text1"><tspan
+         id="tspan1"
+         style="fill:#c5c5c5;stroke:#000000;stroke-width:0.440467;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+         x="24.537737"
+         y="26.271282"
+         sodipodi:role="line">Donate</tspan></text>
+  </g>
+</svg>
