@@ -1,107 +1,87 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 
 <svg
-   width="135.46666mm"
-   height="33.866665mm"
-   viewBox="0 0 135.46666 33.866665"
    version="1.1"
-   id="svg1"
-   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
-   sodipodi:docname="Donate.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="Capa_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 618.40002 102.5"
+   enable-background="new 0 0 1400 980"
+   xml:space="preserve"
+   width="618.40002"
+   height="102.5"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     inkscape:document-units="mm"
-     inkscape:zoom="2.0097643"
-     inkscape:cx="199.02831"
-     inkscape:cy="76.12833"
-     inkscape:window-width="2560"
-     inkscape:window-height="1336"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
-  <defs
-     id="defs1">
-    <linearGradient
-       id="linearGradient6"
-       inkscape:collect="always">
-      <stop
-         style="stop-color:#151515;stop-opacity:1;"
-         offset="0.42550123"
-         id="stop6" />
-      <stop
-         style="stop-color:#444444;stop-opacity:1;"
-         offset="0.82046396"
-         id="stop7" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4"
-       inkscape:collect="always">
-      <stop
-         style="stop-color:#b3b3b3;stop-opacity:1;"
-         offset="0"
-         id="stop4" />
-      <stop
-         style="stop-color:#b3b3b3;stop-opacity:0;"
-         offset="1"
-         id="stop5" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4"
-       id="linearGradient5"
-       x1="67.73333"
-       y1="-29.089077"
-       x2="67.73333"
-       y2="62.955742"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.90445037,0,0,0.90445037,6.4718949,1.6179737)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6"
-       id="linearGradient7"
-       x1="67.73333"
-       y1="84.666664"
-       x2="67.73333"
-       y2="-50.799995"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <rect
-       style="fill:url(#linearGradient7);stroke-width:0.30118;fill-opacity:1"
-       id="rect1"
-       width="135.46666"
-       height="33.866665"
-       x="0"
-       y="0"
-       rx="4.2127662"
-       ry="4.2127662" />
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:27.5762px;font-family:GeForce;-inkscape-font-specification:'GeForce Bold';writing-mode:lr-tb;direction:ltr;fill:#c5c5c5;fill-opacity:1;stroke:#000000;stroke-width:0.440467;stroke-dasharray:none;stroke-opacity:1"
-       x="24.537737"
-       y="26.271282"
-       id="text1"><tspan
-         id="tspan1"
-         style="fill:#c5c5c5;stroke:#000000;stroke-width:0.440467;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
-         x="24.537737"
-         y="26.271282"
-         sodipodi:role="line">Donate</tspan></text>
-  </g>
-</svg>
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs57" />
+
+
+
+
+
+
+
+
+
+
+
+
+<path
+   fill="#3a4a60"
+   d="m 618.4,99.1 c 0,1.9 -1.5,3.4 -3.4,3.4 H 3.4 C 1.5,102.5 0,101 0,99.1 V 3.4 C 0,1.5 1.5,0 3.4,0 H 615 c 1.9,0 3.4,1.5 3.4,3.4 z"
+   id="path7" />
+<rect
+   x="96.900024"
+   y="8.5"
+   fill="#ffffff"
+   width="1"
+   height="85.400002"
+   id="rect7" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<text
+   fill="#ffffff"
+   font-family="MyriadPro-Regular"
+   font-size="36.5725px"
+   id="text18"
+   x="171.78729"
+   y="61.957397">DONATE</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style
+   type="text/css"
+   id="style1">.st0{fill-rule:evenodd;clip-rule:evenodd;}</style><path
+   class="st0"
+   d="M 35.66195,69.43279 V 51.98194 h 7.85099 c 3.32757,0.59557 6.65514,2.40115 9.98271,4.49506 h 6.0974 c 2.76037,0.16543 4.20674,2.96362 1.52199,4.80229 -2.13646,1.56925 -4.95827,1.47945 -7.85099,1.21948 -1.99465,-0.0993 -2.07973,2.58076 0,2.59022 0.72318,0.0568 1.50781,-0.11343 2.19317,-0.11343 3.61117,-0.005 6.57952,-0.69482 8.39928,-3.545 l 0.91225,-2.13173 9.07048,-4.49505 c 4.53759,-1.49364 7.76118,3.25195 4.41943,6.55587 -6.57006,4.77867 -13.30557,8.71126 -20.19705,11.88757 -5.00554,3.04397 -10.01108,2.93999 -15.01188,0 z M 57.52278,30.792296 c 1.71577,-1.791406 2.91635,-3.337026 5.56328,-3.639533 4.963,-0.571926 9.52896,4.513966 7.02382,9.519505 -0.71373,1.427453 -2.16481,3.119596 -3.77187,4.78339 -1.76305,1.824492 -3.71516,3.615892 -5.0859,4.972452 l -3.72933,3.70097 -3.0818,-2.96833 c -3.7057,-3.56865 -9.7511,-8.063703 -9.94963,-13.631714 -0.14174,-3.8995 2.93999,-6.399907 6.47554,-6.35264 3.16687,0.03782 4.49505,1.611793 6.55589,3.6159 z M 21.5623,50.30397 H 33.2986 V 71.18639 H 21.5623 Z"
+   id="path1-3"
+   style="fill:#ffffff;stroke-width:0.472666" /></svg>
