@@ -1,2 +1,2 @@
-# Godot Asset Store | Resources
-Resources such as images for use on the Godot Asset Store that aren’t natively supported by the store and need to be hosted externally.
+# Marketplace | Resources
+Resources such as images and icons for use on marketplaces that don’t natively support hosting those resources, so they need to be hosted externally.
